@@ -1,1 +1,2 @@
-alert("Je suis une alerte !!!!!! ");
+import '../styles/styles.css'
+

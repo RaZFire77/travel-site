@@ -1,0 +1,5 @@
+$test: #fd7856;
+
+body{
+    color: $test;
+}
